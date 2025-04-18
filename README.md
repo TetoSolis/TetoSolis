@@ -1,6 +1,6 @@
 👋 Salut, je suis Guillaume Greder (@TetoSolis)  
 👀 Je suis intéressé par l'Internet des Objets (IoT), la programmation et les infrastructures réseau.  
-🌱 Actuellement, je suis en 3ᵉ année de BUT Réseaux et Télécommunications à l'Université de Nord-Franche-Comté, spécialisé dans l'IoT et les mobilités.  
+🌱 Actuellement, je suis en 3ᵉ année de BUT Réseaux et Télécommunications à l'Université de Nord-Franche-Comté, spécialisé dans cybersécurité.  
 💞️ Je cherche à collaborer sur des projets innovants en IoT ou sur des défis liés au déploiement réseau.  
 📫 Pour me contacter : greder.guillaume@hotmail.com  
 😄 Pronoms : Il/Lui  
